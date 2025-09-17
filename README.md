@@ -52,8 +52,8 @@
 | **YouTube Summarizer & Q&A** | LangGraph · YouTube API · LLM Chains | End-to-end content processing with automated Q&A generation | [🔗](https://github.com/swarupd07/LangGraphProjects) |
 | **Bhagavad-Gita ChatBot** | RAG · LangChain · ChromaDB · HuggingFace | Multi-modal retrieval with 4 response styles & spiritual context | [🔗](https://github.com/swarupd07/Bhagavad-Gita-ChatBot) |
 | **U-Net Flood Segmentation** | TensorFlow · Keras · Computer Vision | **89% accuracy** for disaster management applications | - |
-| **CNN Fruit Classification** | Deep Learning · Image Processing | **96.3% accuracy** across 36 fruit categories (36K images) | - |
-| **Smoke-Based Fire Alarm** | Decision Tree · Random Forest · SVM | **99.95% accuracy** on 12K samples with robust feature engineering | - |
+| **CNN Fruit Classification** | Deep Learning · Image Processing | **96.3% accuracy** across 36 fruit categories (36K images) | [🔗](https://github.com/swarupd07/Fruit_classification) |
+| **Smoke-Based Fire Alarm** | Decision Tree · Random Forest · SVM | **99.95% accuracy** on 12K samples with robust feature engineering | [🔗](https://github.com/swarupd07/Smoke-Detection-for-Fire-Safety-Alram) |
 
 ## 📈 GitHub Stats
 
