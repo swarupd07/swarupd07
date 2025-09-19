@@ -28,7 +28,7 @@ Passionate Artificial Intelligence and Data Science learner building a strong an
 
 
 - 🎓 **B.S. in Data Science & Applications** @ **IIT Madras** (Distance Learning - CGPA: 8.18/10)
-- ⛏️ **B.Tech in Mining Engineering** @ **IIT Kharagpur** (On Campus - CGPA: 7.21/10)
+- ⛏️ **B.Tech in Mining Engineering** @ **IIT Kharagpur** (On Campus)
 - 📊 **Junior Secretary** @ Dakshana Alumni Network 
 - 👨‍🏫 **Active Mentor** for Navodaya, Dakshana students & Local community
 - 🤖 Building **Generative AI & Agentic AI based applications** 
