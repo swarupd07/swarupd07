@@ -3,14 +3,19 @@
 
 # Hello, I'm Swarup Dhanavade 👋
 
-**Data Science** • **Artificial Intelligence**
+**Pre-Final year Student**
+
+![IIT Khargpur](https://d2lk14jtvqry1q.cloudfront.net/media/small_Indian_Institute_of_Technology_Kharagpur_IIT_Kharagpur_681e745485_54a8cae362_2eede8fac0_bf3af1c2fb.png)
+
+
+Applying       **Data Science** & **Artificial Intelligence**     
 
 
 ![LinkedIn article cover image](https://dss-www-production.s3.amazonaws.com/uploads/2024/09/Artificial-Intelligence-and-Data-Science-Building-a-Future-Proof-Career-768x358.jpg)
 
 
 
-Passionate Artificial Intelligence and Data Science learner with a strong foundation built through rigorous academic training at IIT Kharagpur and advanced coursework in Data Science/AI domains from IIT Madras. Actively developing hands-on expertise through practical projects and cross-disciplinary learning. Skilled in leveraging statistical methods and machine learning algorithms to solve real-world problems. Committed to continuous learning and contributing to innovative AI-driven solutions. 
+Passionate Artificial Intelligence and Data Science learner building a strong analytical foundation through academic training at IIT Kharagpur and advanced coursework in Data Science/AI domains from IIT Madras. Actively developing hands-on expertise through practical projects and cross-disciplinary learning. Skilled in leveraging machine learning algorithms to solve real-world problems. Committed to continuous learning and contributing to innovative AI-driven solutions. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/swarup-dhanavade-2065a4280/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:swarupdhanavadesd@gmail.com)
@@ -19,6 +24,8 @@ Passionate Artificial Intelligence and Data Science learner with a strong founda
 ## 
 
 </div>
+
+
 
 - 🎓 **B.S. in Data Science & Applications** @ **IIT Madras** (Distance Learning - CGPA: 8.18/10)
 - ⛏️ **B.Tech in Mining Engineering** @ **IIT Kharagpur** (On Campus - CGPA: 7.21/10)
