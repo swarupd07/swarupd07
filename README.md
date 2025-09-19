@@ -1,17 +1,22 @@
 <div align="center">
 
-# Hello 👋, I'm Swarup Dhanavade
 
-**ML Engineer** • **Generative AI Engineer** • **Data Scientist**
+# Hello, I'm Swarup Dhanavade 👋
+
+**Data Science** • **Artificial Intelligence**
+
+
+![LinkedIn article cover image](https://dss-www-production.s3.amazonaws.com/uploads/2024/09/Artificial-Intelligence-and-Data-Science-Building-a-Future-Proof-Career-768x358.jpg)
+
+
+
+Passionate Artificial Intelligence and Data Science learner with a strong foundation built through rigorous academic training at IIT Kharagpur and advanced coursework in Data Science/AI domains from IIT Madras. Actively developing hands-on expertise through practical projects and cross-disciplinary learning. Skilled in leveraging statistical methods and machine learning algorithms to solve real-world problems. Committed to continuous learning and contributing to innovative AI-driven solutions. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/swarup-dhanavade-2065a4280/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:swarupdhanavadesd@gmail.com)
 
 
-Passionate Artificial Intelligence and Data Science learner with a strong foundation built through rigorous academic training at IIT Kharagpur and advanced coursework in Data Science/AI domains from IIT Madras. Actively developing hands-on expertise through practical projects and cross-disciplinary learning, with proven ability to uncover meaningful insights from complex datasets. Skilled in leveraging statistical methods and machine learning algorithms to solve real-world problems. Committed to continuous learning and contributing to innovative AI-driven solutions. 
-
-
-## 🧑‍💻 About Me
+## 
 
 </div>
 
