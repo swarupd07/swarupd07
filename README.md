@@ -128,8 +128,8 @@ Deep learning image classifier trained on 36,000+ images across 36 fruit categor
 
 ### 💼 Leadership & Impact
 
-**Vice President** — Dakshana Alumni Network Council *(2026–27)*
-Promoted through Junior and Senior Secretary roles to Vice President; leading 9 junior secretaries and 1,100+ volunteers. Coordinated 3 national scholarship examinations, overseeing operations for **66,000+ students** across **700+ exam centers**, with close cross-team and stakeholder coordination.
+**Senior Secretary** — Dakshana Alumni Network Council *(2025-26)*
+Promoted through Junior Secretary roles to Senior Secretary; leading 9 junior secretaries and 1,100+ volunteers. Coordinated 3 national scholarship examinations, overseeing operations for **66,000+ students** across **700+ exam centers**, with close cross-team and stakeholder coordination.
 
 ---
 
