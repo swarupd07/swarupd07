@@ -23,47 +23,12 @@ Currently researching **machine unlearning** techniques as part of my B.Tech Pro
 - 🎓 **B.S. in Data Science & Applications** — IIT Madras (Distance Learning)
 - ⛏️ **B.Tech in Mining Engineering** — IIT Kharagpur (On Campus)
 - 🔬 Researching **Exact & Approximate Machine Unlearning** under Prof. Swanand Khare
-- 👔 **Senior Secretary** @ Dakshana Alumni Network (2026–27)
+- 👔 **Senior Secretary** @ Dakshana Alumni Network (2025-26)
 - 👨‍🏫 Active mentor for Navodaya & Dakshana students and the local community
 - 🤖 Building **Generative AI, Agentic AI & Quant/Causal ML** systems
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
-**Data Science & Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EB0000?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-**Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-
-**Generative AI & Agentic AI**
-
-![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-5C3EE8?style=flat-square)
-
-**Quant & Optimization**
-
-![CVXPY](https://img.shields.io/badge/-CVXPY-4B8BBE?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-
----
 
 ### 📌 Featured Projects
 
@@ -117,6 +82,38 @@ Deep learning image classifier trained on 36,000+ images across 36 fruit categor
 </td>
 </tr>
 </table>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+**Data Science & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EB0000?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+**Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+
+**Generative AI & Agentic AI**
+
+![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-5C3EE8?style=flat-square)
+
 
 ---
 
