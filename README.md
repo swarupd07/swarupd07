@@ -2,7 +2,7 @@
 
 # Hi, I'm Swarup Dhanavade 👋
 
-### Pre-Final Year Student @ IIT Kharagpur | Building in Data Science & AI
+### Final Year Student @ IIT Kharagpur | Building in Data Science & AI
 
 <img src="https://d2lk14jtvqry1q.cloudfront.net/media/small_Indian_Institute_of_Technology_Kharagpur_IIT_Kharagpur_681e745485_54a8cae362_2eede8fac0_bf3af1c2fb.png" width="450"/>
 
