@@ -28,7 +28,8 @@ Currently researching **machine unlearning** techniques as part of my B.Tech Pro
 
 **Senior Secretary** — Dakshana Alumni Network Council *(2025-26)*
 
-Promoted through Junior Secretary roles to Senior Secretary; leading 9 junior secretaries and 1,100+ volunteers. Coordinated 3 national scholarship examinations, overseeing operations for **66,000+ students** across **700+ exam centers**, with close cross-team and stakeholder coordination.
+Leading 9 junior secretaries and 1,100+ volunteers.
+Coordinated 3 national scholarship examinations, overseeing operations for **66,000+ students** across **700+ exam centers**.
 
 ---
 
