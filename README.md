@@ -2,11 +2,10 @@
 
 # Hi, I'm Swarup Dhanavade 👋
 
-### Final Year Student @ IIT Kharagpur | Building in Data Science & AI
+### Final Year Student @ IIT Kharagpur
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/swarup-dhanavade-2065a4280/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/swarupd07)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:swarupdhanavadesd@gmail.com)
 
 </div>
@@ -15,28 +14,14 @@
 
 ### 🧭 About Me
 
-I'm an Artificial Intelligence & Data Science enthusiast building a analytical foundation through academic training at **IIT Kharagpur** and specialized coursework in **Data Science & AI from IIT Madras**. Turning mathematical rigor into real-world, decision-driving systems
+Final-year undergraduate at IIT Kharagpur, with additional training in Data Science & Applications at IIT Madras.
 
-Currently researching **machine unlearning** techniques as part of my B.Tech Project, and building applied ML/AI systems that combine theory, engineering, and business impact.
+I work at the intersection of machine learning, statistics, quantitative finance, and decision systems, with a focus on building research-driven and experimentally validated solutions.
 
-- 🔬 Researching **Exact & Approximate Machine Unlearning** under Prof. Swanand Khare
-- 🧠 **Machine Learning & Unlearning, Generative AI, Causal ML, Quantitative Finance & ML for Business Decision Making**
-
----
-
-### 💼 Leadership & Impact
-
-**Senior Secretary** — Dakshana Alumni Network Council *(2025-26)*
-
-Leading 9 junior secretaries and 1,100+ volunteers.
-Coordinated 3 national scholarship examinations, overseeing operations for **66,000+ students** across **700+ exam centers**.
+Currently researching **machine unlearning** techniques as part of my B.Tech Project under Prof. Swanand Khare, and building applied ML/AI systems that combine theory, engineering, and business impact.
 
 ---
 
-
-**Certifications:** Youth Mental Health First Aider • Finding the Leader in You Workshop (IIT Gandhinagar)
-
----
 <div align="center">
 
 
