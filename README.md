@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ### 🧭 About Me
 
 Final-year undergraduate at IIT Kharagpur, with additional training in Data Science & Applications at IIT Madras.
